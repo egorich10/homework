@@ -1,0 +1,15 @@
+.text-1 {
+font-family: "Open Sans", sans-serif;
+font-weight: 400;
+font-size: 20;
+}
+.text-3 {
+text-transform: uppercase;
+text-align: center;
+}
+.text-4 {
+text-shadow: 1px 1px 1px #631b929e;
+word-spacing: 30px;
+}
+.text-5 {
+letter-spacing: 5px;}
