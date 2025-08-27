@@ -1,0 +1,20 @@
+.block {
+position: fixed;
+left: 50%;
+bottom: 100px;
+background: #fff;
+height: 100px;
+right: 50px;
+border-radius: 5px;
+}
+.circle {
+position: fixed;
+background: #df6363;
+border-radius: 100%;
+width: 100px;
+height: 100px;
+bottom: 150px;
+right:770px;
+}
+body {
+background: #444;}
