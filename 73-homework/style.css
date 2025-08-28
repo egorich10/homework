@@ -1,0 +1,40 @@
+body {
+    background-color: #222222;
+}
+
+.block {
+    width: 200px;
+    height: 200px;
+    background-color: #444;
+    border-radius: 15px;
+    margin: 0 auto;
+    transform: translate(0px, 350px);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+.line {
+background-color: azure;
+height: 10px;
+width: 0px;
+left: 0;
+transform: translate(-220px, -220px);
+position: absolute;
+}
+
+div:hover .line {
+width: 600px;
+transition: 3s;
+}
+
+p {
+    color: #444;
+    font-size: 20px;
+}
+
+div:hover p {
+    transition: 1s;
+    transition-delay: 3s;
+    color: #81e496;
+}
