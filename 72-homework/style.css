@@ -5,7 +5,7 @@ background-color: #fc5050;
 width: 70px;
 height: 70px;
 border-radius: 100%;
-transform: translate(445px, 65px);
+transform: translate(-115px, 65px);
 border: 3px solid #fff;
 }
 
@@ -24,6 +24,7 @@ background-color: #5b50fc;
 width: 70px;
 height: 70px;
 border-radius: 100%;
-    transform: translate(815px, -65px);
+    transform: translate(275px, -65px);
 border: 3px solid #fff;
 }
+
