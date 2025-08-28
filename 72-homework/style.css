@@ -11,7 +11,7 @@ border: 3px solid #fff;
 
 h1 {
 color: #fff;
-text-align: center;
+transform: translateX(800px);
 font-size: 50px;}
 
 body {
@@ -27,4 +27,5 @@ border-radius: 100%;
     transform: translate(275px, -65px);
 border: 3px solid #fff;
 }
+
 
