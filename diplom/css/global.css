@@ -1,0 +1,17 @@
+:root {
+--accent-color: #DE343D;
+--accent-secondary-color: #9C9C9C;
+}
+html {
+    scroll-behavior: smooth;
+    scroll-padding: 5vw;
+}
+body {
+    font-family: "Monument Extended", sans-serif;
+    line-height: 1.5;
+}
+.title {
+    color: #DE343D;
+font-size: 38px;
+line-height: 40.2px;
+}
